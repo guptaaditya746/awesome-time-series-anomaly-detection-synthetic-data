@@ -1,0 +1,1 @@
+# awesome-time-series-anomaly-detection-synthetic-data
