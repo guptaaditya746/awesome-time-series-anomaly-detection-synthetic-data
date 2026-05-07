@@ -1,7 +1,7 @@
 # awesome-time-series-anomaly-detection-synthetic-data# awesome-time-series-anomaly-detection-synthetic-data
 
 
-````markdown
+
 # Multivariate Time Series Anomaly Detection and Root Cause Analysis
 
 A curated collection of datasets, benchmarks, papers, and tools for multivariate time series anomaly detection (TSAD) and root cause analysis (RCA), with emphasis on microservices, industrial systems, observability, and causal inference.
